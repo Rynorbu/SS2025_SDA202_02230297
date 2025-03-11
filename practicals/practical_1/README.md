@@ -112,28 +112,28 @@ This diagram provides a clear overview of the system's functionality and the int
 
 ### Interactions
 
-The professor decides how assignments will be graded and sets the due date.
+- The professor decides how assignments will be graded and sets the due date. 
 
-The student uploads their code before the deadline.
+- The student uploads their code before the deadline.
 
-If the student submits the assignment after the deadline, it is rejected. If it is on time, the process continues.
+- If the student submits the assignment after the deadline, it is rejected. If it is on time, the process continues.
 
-Professor clones the assignment – The professor makes a copy of the submitted code to check it.
+- Professor clones the assignment – The professor makes a copy of the submitted code to check it.
 
-The system reviews the submission:
-- If the assignment is not valid, it is rejected.
-- If the assignment is valid, it moves to the next step.
+- The system reviews the submission:
+    - If the assignment is not valid, it is rejected.
+    - If the assignment is valid, it moves to the next step.
 
-The professor can review the code in two ways:
+- The professor can review the code in two ways:
 
-- Manually checking the code.
-- Running the code to see if it works correctly.
+    - Manually checking the code.
+    - Running the code to see if it works correctly.
 
-The system checks if the student copied the code from somewhere else.
+- The system checks if the student copied the code from somewhere else.
 
-Based on how well the code works and whether it follows the grading rules, the professor gives a grade.
+- Based on how well the code works and whether it follows the grading rules, the professor gives a grade.
 
-The final grade is recorded, and the process is complete.
+- The final grade is recorded, and the process is complete.
 
 </details>
 
