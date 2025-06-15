@@ -18,6 +18,7 @@ In this practical, we have included only the main features of a house renting sy
 ### Tenant
 ![Tenant](assests/image2.jpg)
 
+--- 
 
 ### What I learned
 
@@ -25,6 +26,8 @@ In this practical, we have included only the main features of a house renting sy
 - How the system components interact with eachother to accomplish specific tasks. 
 - Mainly the logic in flow design.
 - How diagrams helps in building clear documentation before actual development. 
+
+--- 
 
 ### Reflection 
 This exercise helped me better visualize how a complex feature like booking can be broken down into simpler components. It taught me to think not only from a developer's perspective but also from a user and business logic point of view.
