@@ -8,7 +8,7 @@ This report explains the steps involved when a customer wants to rent a car. The
 
 ![alt text](../practical_7/assets/sequence-diagram.jpg)
 
-**2. Who Is Involved?**
+## **2. Who Is Involved?**
 
 Here are the main people and systems involved in the process:
 
@@ -26,7 +26,7 @@ Here are the main people and systems involved in the process:
 
 - **Billing System:** (Listed in the diagram but not used directly in this process.)
 
-**3. Step-by-Step Explanation**
+## **3. Step-by-Step Explanation**
 
 **Step 1: Enter Customer and Car Requirements**
 
